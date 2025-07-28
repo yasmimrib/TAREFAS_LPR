@@ -1,0 +1,15 @@
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\bin\Debug\net9.0\Exercicio_2.exe
+C:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\bin\Debug\net9.0\Exercicio_2.deps.json
+C:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\bin\Debug\net9.0\Exercicio_2.runtimeconfig.json
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\bin\Debug\net9.0\Exercicio_2.dll
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\bin\Debug\net9.0\Exercicio_2.pdb
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\Exercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\Exercicio_2.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\Exercicio_2.AssemblyInfo.cs
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\Exercicio_2.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\Exercicio_2.sourcelink.json
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\Exercicio_2.dll
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\refint\Exercicio_2.dll
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\Exercicio_2.pdb
+C:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\Exercicio_2.genruntimeconfig.cache
+C:\Users\User\Desktop\escola\TAREFAS_LPR\Estruturas_de_Repeticao\Exercicio_2\obj\Debug\net9.0\ref\Exercicio_2.dll
