@@ -1,0 +1,15 @@
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\bin\Debug\net9.0\Exercicio_3.exe
+C:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\bin\Debug\net9.0\Exercicio_3.deps.json
+C:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\bin\Debug\net9.0\Exercicio_3.runtimeconfig.json
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\bin\Debug\net9.0\Exercicio_3.dll
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\bin\Debug\net9.0\Exercicio_3.pdb
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\Exercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\Exercicio_3.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\Exercicio_3.AssemblyInfo.cs
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\Exercicio_3.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\Exercicio_3.sourcelink.json
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\Exercicio_3.dll
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\refint\Exercicio_3.dll
+c:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\Exercicio_3.pdb
+C:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\Exercicio_3.genruntimeconfig.cache
+C:\Users\User\Desktop\escola\TAREFAS_LPR\Structs\Exercicio_3\obj\Debug\net9.0\ref\Exercicio_3.dll
