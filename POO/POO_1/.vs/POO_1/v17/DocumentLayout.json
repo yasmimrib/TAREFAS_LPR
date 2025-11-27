@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B91E7C93-B4D4-42F6-A836-8BEF787A93C0}|Exercicio_4\\Exercicio_4.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_4\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91E7C93-B4D4-42F6-A836-8BEF787A93C0}|Exercicio_4\\Exercicio_4.csproj|solutionrelative:exercicio_4\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91E7C93-B4D4-42F6-A836-8BEF787A93C0}|Exercicio_4\\Exercicio_4.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_4\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91E7C93-B4D4-42F6-A836-8BEF787A93C0}|Exercicio_4\\Exercicio_4.csproj|solutionrelative:exercicio_4\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91E7C93-B4D4-42F6-A836-8BEF787A93C0}|Exercicio_4\\Exercicio_4.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_4\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91E7C93-B4D4-42F6-A836-8BEF787A93C0}|Exercicio_4\\Exercicio_4.csproj|solutionrelative:exercicio_4\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91E7C93-B4D4-42F6-A836-8BEF787A93C0}|Exercicio_4\\Exercicio_4.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91E7C93-B4D4-42F6-A836-8BEF787A93C0}|Exercicio_4\\Exercicio_4.csproj|solutionrelative:exercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B12F4D-87A5-4086-88F0-01F754C14B2A}|Exercicio_3\\Exercicio_3.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B12F4D-87A5-4086-88F0-01F754C14B2A}|Exercicio_3\\Exercicio_3.csproj|solutionrelative:exercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B12F4D-87A5-4086-88F0-01F754C14B2A}|Exercicio_3\\Exercicio_3.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_3\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B12F4D-87A5-4086-88F0-01F754C14B2A}|Exercicio_3\\Exercicio_3.csproj|solutionrelative:exercicio_3\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF37F83-DAB7-40C1-8207-CAFD448078CC}|Exercicio_2\\Exercicio_2.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF37F83-DAB7-40C1-8207-CAFD448078CC}|Exercicio_2\\Exercicio_2.csproj|solutionrelative:exercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF37F83-DAB7-40C1-8207-CAFD448078CC}|Exercicio_2\\Exercicio_2.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF37F83-DAB7-40C1-8207-CAFD448078CC}|Exercicio_2\\Exercicio_2.csproj|solutionrelative:exercicio_2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D689154E-9706-4799-8E54-CE6CEDFD5684}|Exercicio_1\\Exercicio_1.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_1\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D689154E-9706-4799-8E54-CE6CEDFD5684}|Exercicio_1\\Exercicio_1.csproj|solutionrelative:exercicio_1\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D689154E-9706-4799-8E54-CE6CEDFD5684}|Exercicio_1\\Exercicio_1.csproj|c:\\users\\user\\desktop\\escola\\tarefas_lpr\\poo_1\\poo_1\\exercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D689154E-9706-4799-8E54-CE6CEDFD5684}|Exercicio_1\\Exercicio_1.csproj|solutionrelative:exercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_4\\Personagem.cs",
+              "RelativeDocumentMoniker": "Exercicio_4\\Personagem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_4\\Personagem.cs",
+              "RelativeToolTip": "Exercicio_4\\Personagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:29:20.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inimigo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_4\\Inimigo.cs",
+              "RelativeDocumentMoniker": "Exercicio_4\\Inimigo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_4\\Inimigo.cs",
+              "RelativeToolTip": "Exercicio_4\\Inimigo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:29:01.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_4\\Item.cs",
+              "RelativeDocumentMoniker": "Exercicio_4\\Item.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_4\\Item.cs",
+              "RelativeToolTip": "Exercicio_4\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:28:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_4\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_4\\Program.cs",
+              "RelativeToolTip": "Exercicio_4\\Program.cs",
+              "ViewState": "AgIAAB0AAACAMzMzMzMTwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:27:44.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "alunos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_3\\alunos.cs",
+              "RelativeDocumentMoniker": "Exercicio_3\\alunos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_3\\alunos.cs",
+              "RelativeToolTip": "Exercicio_3\\alunos.cs",
+              "ViewState": "AgIAAAoAAACgmZmZmZklwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:25:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_3\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_3\\Program.cs",
+              "RelativeToolTip": "Exercicio_3\\Program.cs",
+              "ViewState": "AgIAAAUAAABgMzMzMzMrwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:24:10.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_2\\funcionario.cs",
+              "RelativeDocumentMoniker": "Exercicio_2\\funcionario.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_2\\funcionario.cs",
+              "RelativeToolTip": "Exercicio_2\\funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:17:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_2\\Program.cs",
+              "RelativeToolTip": "Exercicio_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:13:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_1\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Exercicio_1\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_1\\Retangulo.cs",
+              "RelativeToolTip": "Exercicio_1\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:10:51.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\escola\\TAREFAS_LPR\\POO_1\\POO_1\\Exercicio_1\\Program.cs",
+              "RelativeToolTip": "Exercicio_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:53:48.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
